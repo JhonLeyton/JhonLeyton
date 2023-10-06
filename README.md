@@ -1,7 +1,7 @@
 ![github](https://github.com/satara2358/satara2358/assets/25549072/19c3ef8b-15a1-49b1-a003-3d44854a981e)
 
-<h1 align="center">Hola, soy Raúl Peña</h1>
-<h3 align="center">Aprovecho las oportunidades para ampliar mis conocimientos técnicos y mantenerme actualizado sobre las últimas tecnologías y tendencias en el campo de la ingeniería.</h3>
+<h1 align="center">Hola, soy Jhon Deivy</h1>
+<h3 align="center">Esta vez hablaremos de todo un poco.</h3>
 
 <p align="left"> 
   <a href="https://twitter.com/tecnopolispasto" target="blank">
